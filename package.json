@@ -12,7 +12,7 @@
     "multer": "^1.4.5-lts.1"
   },
   "scripts": {
-    "start": "nodemon server"
+    "start": "node server"
   },
   "name": "test_back",
   "version": "1.0.0",
